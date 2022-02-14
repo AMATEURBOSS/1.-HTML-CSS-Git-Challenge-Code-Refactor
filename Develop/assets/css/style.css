@@ -68,22 +68,35 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Fixed float to the left so it is similar to the mock up*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    float: left;
 }
 
+/* Created a rule to lower the color of the font of the p elementsto resemble the mock up more*/
+.content p {
+    color: #dddcdc;
+}
+
+/* Removed Float right property and added display inline block in order for the element to appear side by side as it does in the mock up*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    display: inline-block;
+    
+}
+
+/* Created a rule to lower the color of the font of the p elements in the aside section to resemble the mock up more*/
+.benefits p {
+    color: #dddcdc;
 }
 
 .benefit-lead {
