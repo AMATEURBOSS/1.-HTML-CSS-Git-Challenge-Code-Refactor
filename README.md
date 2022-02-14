@@ -10,7 +10,7 @@ Example mock up site:
 
 
 
-Current Site's Screen Capture
+Current Site's Screen Capture's. Was done in 3 pieces
 
 
 ![Screen Shot 2022-02-14 at 12 43 40 AM](https://user-images.githubusercontent.com/96638258/153813292-722105b8-fa5c-496b-b580-9dca73e871a1.png)
